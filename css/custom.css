@@ -1,0 +1,23 @@
+.profile-img {
+	padding: 20px;
+}
+
+.profile-name {
+	font-family: Helvetica, Arial, sans-serif !important;
+	margin: 0;
+}
+
+.profile-desc {
+	font: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+@media (min-width: 767) {
+	.upper {
+		padding-top: 50px !important;
+	}
+}
+
+.end {
+	padding-top: 45px;
+}
