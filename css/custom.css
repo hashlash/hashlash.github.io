@@ -3,11 +3,13 @@
 }
 
 .profile-name {
+	font-size: 40px;
 	font-family: Helvetica, Arial, sans-serif !important;
 	margin: 0;
 }
 
 .profile-desc {
+	font-size: 17px;
 	font: Helvetica;
 	font-family: Helvetica, Arial, sans-serif;
 }
