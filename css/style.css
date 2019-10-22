@@ -32,6 +32,20 @@ header	{
 nav ul {
 	display: flex;
 	margin-bottom: 0;
+	list-style: none;
+}
+
+nav li {
+	margin-left: 40px;
+}
+
+nav a {
+	font-family: 'Montserrat';
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: white;
 }
 
 main section {
