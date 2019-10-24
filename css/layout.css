@@ -38,12 +38,21 @@ main > section#intro {
 main > section {
 	display: flex;
 	height: 100vh;
-	padding: 0 250px;
+	padding: 0 15vw;
 	flex-direction: column;
 	justify-content: center;
 	align-content: center;
 	align-items: center;
 	text-align: center;
+}
+
+main > section h2 {
+	margin: 40px;
+}
+
+main > section p {
+	max-width: 800px;
+	margin-bottom: 35px;
 }
 
 main > footer {

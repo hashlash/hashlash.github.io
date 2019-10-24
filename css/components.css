@@ -40,3 +40,25 @@
 #profile > .profile-desc {
 	font-size: 17px;
 }
+
+.social-media-btn {
+	display: inline-block;
+	padding: 10px 16px;
+	margin: 10px;
+	border: 1px solid #42DCA3;
+	color: #42DCA3;
+
+	font-family: Montserrat;
+	font-size: 18px;
+	text-transform: uppercase;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+.social-media-btn:hover,
+.social-media-btn:focus {
+	border: 1px solid #42DCA3;
+	outline: none;
+	color: black;
+	background-color: #42DCA3;
+}
