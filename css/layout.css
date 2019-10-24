@@ -60,3 +60,12 @@ main > footer {
 	margin-top: -50px;
 	text-align: center;
 }
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+
+.list-inline > li {
+    display: inline-block;
+}
