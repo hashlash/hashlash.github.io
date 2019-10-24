@@ -15,6 +15,10 @@ a:focus {
     color: #1d9b6c;
 }
 
+span.emphasize {
+    color: #42DCA3
+}
+
 .light {
     font-weight: 400;
 }
