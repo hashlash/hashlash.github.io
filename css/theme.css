@@ -1,0 +1,20 @@
+body {
+    background: black;
+    color: white;
+    /*font-family: Helvetica;*/
+}
+
+a {
+    color: #42DCA3;
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #1d9b6c;
+}
+
+.light {
+    font-weight: 400;
+}
